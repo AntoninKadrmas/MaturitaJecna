@@ -88,7 +88,7 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, PSS a ČJ pro 
 - [x] 62. Ladislav Smoljak, Zdeněk Svěrák, Vyšetřování ztráty třídní knihy      
 
 # Ječnácké maturitní otázky pro rok 2020
-SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, PSS a ČJ pro rok 2020
+SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, DS pro rok 2020
 
 ## PV
 
@@ -102,10 +102,10 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, PSS a ČJ pro 
 - [x] 8. Datové-struktury-s-klíčem-indexem-a-hashované.docx
 - [x] 9. Datové struktury s opakováním a bez opakování.docx
 - [x] 10. Datové struktury_ Spojový seznam, Strom, Fronta, Zásobník, Halda.docx
-- [x] 11. Datové typy, generika, výčtové datové typy, struktury, delegáti, eventy(1..docx
+- [x] 11. Datové typy, generika, výčtové datové typy, struktury, delegáti, eventy.docx
 - [x] 11. Datové typy, generika, výčtové datové typy, struktury, delegáti, eventy.docx
 - [x] 12. Komunikace s databázovým systémem.docx
-- [x] 13. Konstanty, Statické metody a vlastnosti, Anonymní metody (Lambda..docx
+- [x] 13. Konstanty, Statické metody a vlastnosti, Anonymní metody (Lambda).docx
 - [x] 14. Metodiky a životní cyklus - SW.docx
 - [x] 15. Principy objektového programování, agregace a kompozice objektů.docx
 - [x] 16. Rozhraní, dědičnost, abstraktní třídy a přetěžování.docx
@@ -119,4 +119,32 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, PSS a ČJ pro 
 - [x] 23. Uživatelské rozhraní - Události, Kontrola vstupů, Layout, Ovládací prvky_.docx
 - [x] 24. Vlákna-Paralerní-programování-Asynchroní-metody-Concurrent-design-patterns.docx
 - [x] 24. Vlákna-Paralerní-programování-Asynchroní-metody-Concurrent-design-patterns.pdf
-- [x] 25. Vyjimky_a_aserce_debugovani_a_zpracovani_chyb (4..pdf
+- [x] 25. Vyjimky_a_aserce_debugovani_a_zpracovani_chyb.pdf
+
+## DS
+
+- [x] 1. Relační databázové systémy - popis, terminologie
+- [x] 2. Modelování relační databáze - konceptuální (logické) schéma, relační schéma, příklady
+- [x] 3. Normalizace relační databáze – normální formy, důvody
+- [x] 4. Integrita dat relační databáze – integritní omezení, způsoby nastavení
+- [x] 5. Dokumentace k databázovým systémům obsah a forma, popis Arcus, Self Reference
+- [x] 6. Údržba a úpravy dat v databázi
+- [x] 7. Zálohování a archivace dat
+- [x] 8. Export/Import dat z databáze
+- [x] 9. Architektura databázových systémů, správa, služby, systémový katalog
+- [x] 10. Bezpečnost a uživatelská oprávnění a role
+- [x] 11. Jazyk SQL - DDL, DML příkazy
+- [x] 12. Jazyk SQL – SELECT, VIEW (spojování tabulek, agregační funkce, seskupování záznamů)
+- [x] 13. Jazyk SQL – Vnořené příkazy (operátory IN, EXISTS, ALL, SOME, ANY)
+- [x] 14. Jazyk SQL – DCL, TCL příkazy
+- [x] 15. Transakce a transakční zpracování (ACID)
+- [x] 16. Indexy a indexace dat v databázi (UNIQUE, INDEX)
+- [x] 17. Uložené procedury a funkce
+- [x] 18. Triggery
+- [x] 19. NoSQL a nerelační databáze - popis, terminologie, porovnání s relační databází
+- [x] 20. Business Intelligence. Relační modely evidence verzí, změn a historických záznamů
+- [x] 21. Relační modely hierarchických struktur, Supertype a subtype
+- [x] 22. Správa serveru MSSQL Server, použití programu Microsoft Management studio
+- [x] 23. Správa serveru Oracle, použití programu Oracle SQL developer
+- [x] 24. Správa serveru MySQL, použití programu WorkBench
+- [x] 25. SQL datové typy pro různá databázová prostředí popis a práce s nimi
