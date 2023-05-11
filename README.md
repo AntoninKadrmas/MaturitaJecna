@@ -66,14 +66,14 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, PSS a ČJ pro 
 
 ### Světová a česká literatura do konce 19. stol. – minimálně tři díla 
 - [ ] 13. Edgar Allan Poe, Havran
-- [ ] 15. Karel Havlíček Borovský, Tyrolské elegie
+- [x] 15. Karel Havlíček Borovský, Tyrolské elegie
 
 ### Světová literatura 20. a 21. stol. – minimálně čtyři díla 
 - [ ] 20. Antoine de Saint- Exupéry, Malý princ 
 - [x] 21. Ernest Hemingway, Stařec a moře 
 - [ ] 32. Ray Douglas Bradbury, 451 stupňů Fahrenheita 
 - [x] 33. George Orwell, Farma zvířat 
-- [ ] 34. John Wyndham, Den trifidů 
+- [x] 34. John Wyndham, Den trifidů 
 - [x] 35. Agatha Christie, Deset malých černoušků 
 
 ### Česká literatura  20. a 21. stol. – minimálně pět děl 
