@@ -86,3 +86,37 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, PSS a ČJ pro 
 - [ ] 56. Ota Pavel, Smrt krásných  srnců 
 - [ ] 60. Petr Šabach, Občanský průkaz 
 - [x] 62. Ladislav Smoljak, Zdeněk Svěrák, Vyšetřování ztráty třídní knihy      
+
+# Ječnácké maturitní otázky pro rok 2020
+SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, PSS a ČJ pro rok 2020
+
+## PV
+
+- [x] 1. Adresování a správa paměti, Garbage collector.docx
+- [x] 2. Algoritmizace - Grafy, Prohledávání stavového prostoru, Řazení.docx
+- [x] 3. Algoritmizace - Rekurze, Brute Force, Heuristiky, Nedeterministické algoritmy.docx
+- [x] 4. Architectural design patterns - MVC, Multitier, Monolithic, P2P, Client_Server.docx
+- [x] 5. Asymptotické paměťové a časové složitosti.docx
+- [x] 6. Behavioral design patterns - Iterátor, Command a  Strategy.docx
+- [x] 7. Creational design patterns - Object pool, Singleton a Factory metoda.docx
+- [x] 8. Datové-struktury-s-klíčem-indexem-a-hashované.docx
+- [x] 9. Datové struktury s opakováním a bez opakování.docx
+- [x] 10. Datové struktury_ Spojový seznam, Strom, Fronta, Zásobník, Halda.docx
+- [x] 11. Datové typy, generika, výčtové datové typy, struktury, delegáti, eventy(1..docx
+- [x] 11. Datové typy, generika, výčtové datové typy, struktury, delegáti, eventy.docx
+- [x] 12. Komunikace s databázovým systémem.docx
+- [x] 13. Konstanty, Statické metody a vlastnosti, Anonymní metody (Lambda..docx
+- [x] 14. Metodiky a životní cyklus - SW.docx
+- [x] 15. Principy objektového programování, agregace a kompozice objektů.docx
+- [x] 16. Rozhraní, dědičnost, abstraktní třídy a přetěžování.docx
+- [x] 17. Seřazené a neseřazené datové struktury PV MATURITA.docx
+- [x] 17. Zkrácená verze.docx
+- [x] 18. Soubory a serializace.docx
+- [x] 19. Stringy, regulární výrazy a parsování textu.docx
+- [x] 20. Structural design patterns - Decorator, Proxy a Flyweight.docx
+- [x] 21. Síťová komunikace.docx
+- [x] 22. Testování, Unit testování a dokumentace zdrojového kódu.docx
+- [x] 23. Uživatelské rozhraní - Události, Kontrola vstupů, Layout, Ovládací prvky_.docx
+- [x] 24. Vlákna-Paralerní-programování-Asynchroní-metody-Concurrent-design-patterns.docx
+- [x] 24. Vlákna-Paralerní-programování-Asynchroní-metody-Concurrent-design-patterns.pdf
+- [x] 25. Vyjimky_a_aserce_debugovani_a_zpracovani_chyb (4..pdf
