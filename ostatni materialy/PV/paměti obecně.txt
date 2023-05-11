@@ -1,0 +1,36 @@
+Obecný přehled paměti:
+Paměť v počítači dovoluje 
+
+vnější = usb fles, disk
+vnitřní=RAM,ROM
+hierarchie: sytém řazení toho jak je určitá paměť velká a rychlá
+Register= strašně rychlý ale dovoluje uchovávat málo paměti
+Cache
+Operační paměť
+Elektrycký disk
+Magnetický disk
+Optický disk
+Magnetické disky
+Operační disk
+Pásky
+
+polovodičové RAM, ROM, SSD, 
+    energeticky závislé = pod
+    energiticky nezávislé = nepotřebují přímé napajení pokud odpojím napájení zůstávají data ROM,EEPROM (readonly) 
+        poměť je do ni vložená už když se vytváří například BIOS (později) ale už se nepoužívají protože pokud se používají v paměťi stane chyba musím dostat nový
+nepolovodičové= optické disky, cd,dvd
+
+operační paměť ukládá data které často se mění aktuálně používaná data
+operační paměť využívá DRAM nebo RAM
+    nejrychlejší RAM
+    DRAM = dinamic v operační paměti pomalejší levnější větší kapacita
+    SRAM = static využívá se na cash je rychlejší málo kapacitu ale draha
+    MRAM = kombinace SRAM a DRAM kompromis
+    SSD = ukládá data jenom elektronicky
+        virtuální paměť není paměť je to způsob jak ukládat paměť využíva hardisk a hází tam data využívá na tom sběrnice což je kus kovu které řnáší data
+        může snížit rychlost protože při tom zapisuje na harddisk
+    HARDDISK = zapisuje se tam pomoci páčky která kmitá a zapisuje data
+        čtení z hardisku je rychlejší než zápis
+flesh paměť se používá v cash
+RAM random access memory můžu k nim přistoupit jakým koliv způsobem 
+hard disk se data trvrdě ukládá

@@ -1,35 +1,33 @@
 # Ječnácké maturitní otázky pro rok 2023
 SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, PSS a ČJ pro rok 2023
 
-# Obsah
-
 ## PV
 
-- [x] 1.Adresování a správa paměti - Garbage collecting, Reference/ukazatele, Struktura paměti programu
-- [x] 2.Algoritmizace - Grafy, Prohlédávání stavového prostoru, Řazení
-- [x] 3.Algoritmizace - Rekurze, Brute Force, Heuristiky, Nedeterministické algoritmy
-- [x] 4.Anonymní metody (Lambda), Ukazatel na metodu (delegát)
-- [x] 5.Architectural design patterns - MVC, Multitier, Monolithic, P2P, Client/Server
-- [x] 6.Asymptotické paměťové a časové složitosti
-- [x] 7.Datové typy, Generika, Výčtové datové typy, Struktury, Anotace, Operátory
-- [x] 8.Dědičnost, method overriding, function overloading
-- [x] 9.Integrita dat, bezpečnost, logování, kontrola vstupů, zpracování chyb
-- [x] 10.Komunikace s databázovým systémem - Připojení, Ukládání a načítání dat, Mapování entit v OOP
-- [x] 11.Komunikace v síti - Využití UDP/TCP protokolu
-- [x] 12.Metodiky a životní cyklus vývoje softwaru
-- [x] 13.Návrhové vzory - creational design patterns, structural design patterns, behavioral patterns
-- [x] 14.Principy objektového programování, agregace a kompozice objektů
-- [x] 15.Programovací jazyky - vlastnosti, srovnání, popis způsobu tvorby i běhu programů
-- [x] 16.Soubory a serializace - Ukládání a načítání dat, formáty souborů
-- [x] 17.Strojové učení - Příprava dat, Chyby v datech a bias, Korelace a kauzalita
-- [x] 18.Strojové učení s využitím regrese a klasifikace
-- [x] 19.Strojové učení s využitím umělých neuronových sítí
-- [x] 20.Testování, Unit testování a dokumentace zdrojového kódu
-- [x] 21.Typy datových struktur - Pole, Spojový seznam, Strom, Fronta, Zásobník, Halda
-- [x] 22.Vlákna, Paralerní programování, Asynchroní metody, Concurrent design patterns
-- [x] 23.Vlastnosti datových struktur - Seřazenost a opakování prvků, Indexace, hashování a klíče prvků
-- [x] 24.Výjimky a aserce, debugování a zpracování chyb
-- [x] 25.Zpracování a parsování textých dat, regulární výrazy, kódování a stringy
+- [x] 1. Adresování a správa paměti - Garbage collecting, Reference/ukazatele, Struktura paměti programu
+- [x] 2. Algoritmizace - Grafy, Prohlédávání stavového prostoru, Řazení
+- [x] 3. Algoritmizace - Rekurze, Brute Force, Heuristiky, Nedeterministické algoritmy
+- [x] 4. Anonymní metody (Lambda), Ukazatel na metodu (delegát)
+- [x] 5. Architectural design patterns - MVC, Multitier, Monolithic, P2P, Client/Server
+- [x] 6. Asymptotické paměťové a časové složitosti
+- [x] 7. Datové typy, Generika, Výčtové datové typy, Struktury, Anotace, Operátory
+- [x] 8. Dědičnost, method overriding, function overloading
+- [x] 9. Integrita dat, bezpečnost, logování, kontrola vstupů, zpracování chyb
+- [x] 10. Komunikace s databázovým systémem - Připojení, Ukládání a načítání dat, Mapování entit v OOP
+- [x] 11. Komunikace v síti - Využití UDP/TCP protokolu
+- [x] 12. Metodiky a životní cyklus vývoje softwaru
+- [x] 13. Návrhové vzory - creational design patterns, structural design patterns, behavioral patterns
+- [x] 14. Principy objektového programování, agregace a kompozice objektů
+- [x] 15. Programovací jazyky - vlastnosti, srovnání, popis způsobu tvorby i běhu programů
+- [x] 16. Soubory a serializace - Ukládání a načítání dat, formáty souborů
+- [x] 17. Strojové učení - Příprava dat, Chyby v datech a bias, Korelace a kauzalita
+- [x] 18. Strojové učení s využitím regrese a klasifikace
+- [x] 19. Strojové učení s využitím umělých neuronových sítí
+- [x] 20. Testování, Unit testování a dokumentace zdrojového kódu
+- [x] 21. Typy datových struktur - Pole, Spojový seznam, Strom, Fronta, Zásobník, Halda
+- [x] 22. Vlákna, Paralerní programování, Asynchroní metody, Concurrent design patterns
+- [x] 23. Vlastnosti datových struktur - Seřazenost a opakování prvků, Indexace, hashování a klíče prvků
+- [x] 24. Výjimky a aserce, debugování a zpracování chyb
+- [x] 25. Zpracování a parsování textých dat, regulární výrazy, kódování a stringy
 
 ## PSS
 
@@ -62,13 +60,15 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, PSS a ČJ pro 
 ## ČJ 
 
 ### Světová a česká literatura do konce 18. stol. – minimálně dvě díla 
-- [ ] 4.	William Shakespeare, Romeo a Julie
-- [ ] 6.	William Shakespeare, Zkrocení  zlé ženy
-- [ ] 8.	Moliere, Lakomec
+- [ ] 4. William Shakespeare, Romeo a Julie
+- [ ] 6. William Shakespeare, Zkrocení  zlé ženy
+- [ ] 8. Moliere, Lakomec
 
 ### Světová a česká literatura do konce 19. stol. – minimálně tři díla 
 - [ ] 13. Edgar Allan Poe, Havran
 - [ ] 15. Karel Havlíček Borovský, Tyrolské elegie
+
+### Světová literatura 20. a 21. stol. – minimálně čtyři díla 
 - [ ] 20. Antoine de Saint- Exupéry, Malý princ 
 - [x] 21. Ernest Hemingway, Stařec a moře 
 - [ ] 32. Ray Douglas Bradbury, 451 stupňů Fahrenheita 

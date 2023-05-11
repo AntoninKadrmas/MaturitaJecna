@@ -1,0 +1,29 @@
+odesílání pošty: smtp 25, smtps 465
+- smtp můžou i předávat mezi sebou existuje relay
+- odeslání a doručení
+příjem pošty: pop3 110, imap 103 imaps 993
+- pop3 je starší mali to stáhne lokálně a z stranky mizí (vezmu a na serveru to zmizí)
+- imap čtu maili na serveru připojím se do schránky a můžu prohlížet schránku, a mail tam zůstávají (existuje i nějaké localní cash)
+smtp (text protocol)
+- slouží k doručení ale je to odesílací i příjmací 
+- smtp jako http text plain config like chat
+https://sissden.eu/user/pages/images/smtp_0.png
+- autentizace zde není ale může bejt
+- posilani prez dalsi server který už má authentifikace
+- plain text protocol
+- maily proudí nešifrovaně plain text, jediný způsob ho zašifrovat už na začátku
+
+imap běží na serveru a pokytuje maily
+- smtp = postfix, sendmail
+- imap a pop3 = dovecot (dela oboje)
+
+smtp musi řešit antispam či authetifikaci apod
+MTA= mail transport agent komunikuje pomocí smtp = postfix (prostě software co používá smtp)
+
+
+
+
+A zaznam je primo web, z domenu ip
+PTR zaznam z ip dostanu domenu
+zaznam typu MX říká poštovní servery na dns davá domény a priority
+bud se pripojim na normalni kod a pak zacnu sifrovat prikazem nebo se muzu pripojit na port a začít šifrovat už od začátku např:993, 

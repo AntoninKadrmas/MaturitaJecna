@@ -1,0 +1,41 @@
+programovací jazky
+každý programovací jazky mají své vlastnosti:
+paradigma, syntaxe, popularita, kompatibilita, výkonost, míra abstrakce
+
+abstakci nižší nebo výšší
+nižší ... jsou mnohem primitivnější namjí tak složitou syntaxi a jsou blíže reálnému funkci počítače
+    rychlejší, efektivnější, 
+    Asembler (jazyk simbolických adres)
+
+procesor je schopen vykonávat nějakou sadu základních instrukcí které jsou uložené v bináru
+k čemu se člověk dostane jsou hexadecimální adresy
+asembler využívá slova na místo hexadecimálního kódu 
+asembler se kompiluje do hexadeximálu, hexadecimální do binárního a binární následně se provácí v cpu
+
+hexadecimální kód je strojový kód
+mus9me nainstalovat kompilátor
+višší ... C#, Java, Python
+    kompilované ... C, C++
+        používáme koncept blooku kodu, primitivní kód je zaobalen do složitějších konstrukcích
+        probíhá zde kompilace
+            máme zdrojový kód ten nám kompilátor převede do strojového kódu
+            kompilátor přeloží do strojového kódu z hexadecimálního do bináru a následně do cpu pro spuštění
+            výsledkem je exe soubor, např C
+            výhoda jsou poměrně rychlé, kompilátor okamžitě vyhodí error před spuštěním
+            nevýhoda zkompilovaný program je závislý na platormě typu procesoru atd. (v okrajovém případě)
+        kompilace je náročnější pokud máme komplexnější kód, jediná možnost úpravy je znovu překompilovat 
+    interpretované ... Python, php
+        kompilace probýhá přímo za běhu programu, postupně se kompiluje vše co je potřeba
+        start programu bude rychlejší interpretovaný, ve výsledku je to pomalejší
+        běh programu bude brát více zdrojů než, zkompilovaný exe soubor
+        je přenositelný mezi platformami, pokud máme interpretra pak jde na dane platformě spustit
+        nemusíme zadávat proměné datové typy, nebo přepisovat je za běhu, protože ze začátku ho to nezajímá a až se k ní dostane znovu tak ho může přkompilovat
+    virtuálním strojem ... Java (JVM), C#
+        překompiluj do mezikódu (bytecode ... Java), který se následně znovu převede do strojového kodu
+        jde o optimalizovaný kód aby interpretr mohl kód rychleji proběhnout,
+        nalezne chyby při kompilaci datové typy musí být přesně dané
+        kód je přenositelný mezi zařízeními stále je potřeba interpreter
+        zpracování je o něco rychlější nejdříve zkompiluje interpreter rychleji převede z bytecodu do strojového kódu
+
+
+
