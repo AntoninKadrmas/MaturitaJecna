@@ -1,0 +1,24 @@
+Vodopádový model:
+    používá se v nasa či americké vládě protože ty vědí úplně přesdně co chtějí a chtějí to mít stejné
+    nebo pro nějaké malé jednoduché programy malé projekty
+    velmi zastaralý
+    nikdy jse nevracíme v procesoru
+    vše bude muset být dokonalé
+        požadavek
+        návrh
+        implementace
+        verfikace (testování)
+        údržba
+    dokud nedokončíme jednu vrstvu neposuneme se do druhé a k předchozím vrstám už se nemůžeme vracet
+    stává se že na konci procesu dodáme zákazníkovy jiný produkt kvůli vzájemnému nepochopení v fázi požadavků
+    na konci je hodnocení co se povedlo nepovedlo na co se má dávat pozor
+
+Extrémní programování:
+    všechni části jsou řešené až extrémně do detajlu
+    mezi tyto metodyky spadá například programování ve dvou
+        kde jeden programuje a druhý ho kontroluje a snaží se oběvit chyby které by později mohli být problémové či poradit jakým způsobem danou problematiku řešit
+        mohou se vyměnit, výc očí víc vidí, víc hlav víc ví
+    duležitá je komunikace
+    programujeme vždy to co je potřeba
+    jedná se o iterativní model ale "sprinty" jsou mnohem kratší
+    snažíme se dělat vše co nejrychleji a do posledního detailu

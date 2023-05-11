@@ -1,0 +1,38 @@
+graf = způsob jak reprezentovat vztahy
+jeho základní prvky jsou uzel a hrana
+využívají se když checme řešit nejratší cestu
+    graf = po každé hraně jde jak tam tak zpátky
+    orientovany graf = každá hrana jde jen jdnou cestu
+    ohodnocany graf = hrany maji nějakou hodnotu
+    úplný graf = každý je spojen s každým 
+    cyklické = graf můžu projít celý dokola a dál
+    necyklické = v grafu je bod kdy ve kterém už nejde jít dál
+matice sousednosti a incidence
+
+stavový prostor je prostor je prosto všech stavů které můžou nsatat
+využívá brute force prohledávání do hloubky a šířky
+procházíme do hloubky
+    jdu do hloubky jako od leva do prava
+procházíme do šířky 
+    jde vrstvu po vrstě a hledá hledaný prvek (uzel)
+
+můžeme využít heuristiku kde se snažíme přidat nějakou přidanou hodnotu (logiku) nemusím procházet všechny stavy protože se můžu dostat do satve kde už to logicky není potřeba
+
+backtraceing pokud je stav nepříznivý tak se vrátí
+
+řazení dosatnu nějaký počet prvků ascendent descendent
+buble sort, marge srot, qick sort, selection, sleep sort,
+
+bulble sort porovná dva prvky pokud je větší tak je prohodi, do te doby než nenajde číslo které je větší 
+tak opakuje do te doby než už nelze promenit nic pokud nedošlo v pruchodu k žádnému prohození tak končí cyklus
+časová náročnost n^2
+
+marge sort rozděl a panuj
+dělí monžiny na poloviny pokud je lichý da jeden do prostřed
+následně až jsou rozdělene na dva prvky seřadi dva prvky a posutpně množiny slučuje a řadí zpátky ¨
+časová složitost n*log(n)
+
+quick sort royd2l a panuj
+vybereme si nějakého pivota a podle něj rozřadíme prvky jestli jsou menší nebo větší
+v těch skupinách nových znovu vybereme pivota a znovu seřadíme menší větší až do konce
+časová složitost n*log(n)
