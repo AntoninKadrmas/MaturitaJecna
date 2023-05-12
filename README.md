@@ -34,7 +34,7 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, PSS a ČJ pro 
 - [ ] 1. IPv4, adresování - formát paketu, maska, podsíť. porovnání s IPv6
 - [ ] 2. IPv6, adresování - formát paketu, prefixy, adresace v lokání síti, porovnání s IPv4
 - [ ] 3. Základní síťové technologie LAN, MAN, WAN a komunikační protokoly. Znalost funkce aktivních prvků - router, switch. MAC adresa, IP adresa, ARP, směrování
-- [ ] 4. OSI model sítí, rodina protokolů TCP/IP a porovnání s OSI modelem, pojmy: rámec, paket, zapouzdření dat na jednotlivých vrstvách, spojovaná a nespojovaná služba
+- [x] 4. OSI model sítí, rodina protokolů TCP/IP a porovnání s OSI modelem, pojmy: rámec, paket, zapouzdření dat na jednotlivých vrstvách, spojovaná a nespojovaná služba
 - [ ] 5. Základní principy Ethernetu, jeho standardy, strukturovaná kabeláž. Kategorie strukturované kabeláže, optika, kabely, konektory
 - [ ] 6. Statické i dynamické směrování na síti. (RIP, OSPF), konfigurace
 - [ ] 7. Spanning tree protokol, principy, použití v LAN, BPDU
@@ -47,7 +47,7 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, PSS a ČJ pro 
 - [ ] 14. Bezdrátové sítě - princip radiového přenosu. Rozdělení a použití elektromagnetických vln, jejich šíření, antény, základní druhy modulací, zabezpečení, autentifikace.
 - [ ] 15. Hypertextové schéma HTTP - hlavičky, HTTP autentifikace, HTTP2 - rozdíly oproti HTTP1.1. Webové služby
 - [ ] 16. SSL/TLS, RSA - Symetrické a asymetrické šifrování, SSL/TLS handshake. Certifikační autority. Princip ověření pravosti klíče
-- [ ] 17. IMAP, SMTP - princip odesílání pošty, synchronizace poštovních schránek se serverem
+- [x] 17. IMAP, SMTP - princip odesílání pošty, synchronizace poštovních schránek se serverem
 - [ ] 18. Teorie OS - fungování OS, struktura OS, správa procesů, pseudoparalelismus
 - [ ] 19. Cloud computing - různé vitalizace typy (SaaS, PaaS, IaaS), výhody a nevýhody
 - [ ] 20. OS Linux - Struktura OS, Shell: koncepce, typy, příkazy. Správa programového vybavení. Start systému. Služby, naplánované procesy. Souborový sytém, Účel základních adresářů.
