@@ -33,9 +33,9 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, PSS a ČJ pro 
 
 - [ ] 1. IPv4, adresování - formát paketu, maska, podsíť. porovnání s IPv6
 - [ ] 2. IPv6, adresování - formát paketu, prefixy, adresace v lokání síti, porovnání s IPv4
-- [ ] 3. Základní síťové technologie LAN, MAN, WAN a komunikační protokoly. Znalost funkce aktivních prvků - router, switch. MAC adresa, IP adresa, ARP, směrování
+- [x] 3. Základní síťové technologie LAN, MAN, WAN a komunikační protokoly. Znalost funkce aktivních prvků - router, switch. MAC adresa, IP adresa, ARP, směrování
 - [x] 4. OSI model sítí, rodina protokolů TCP/IP a porovnání s OSI modelem, pojmy: rámec, paket, zapouzdření dat na jednotlivých vrstvách, spojovaná a nespojovaná služba
-- [ ] 5. Základní principy Ethernetu, jeho standardy, strukturovaná kabeláž. Kategorie strukturované kabeláže, optika, kabely, konektory
+- [x] 5. Základní principy Ethernetu, jeho standardy, strukturovaná kabeláž. Kategorie strukturované kabeláže, optika, kabely, konektory
 - [ ] 6. Statické i dynamické směrování na síti. (RIP, OSPF), konfigurace
 - [ ] 7. Spanning tree protokol, principy, použití v LAN, BPDU
 - [ ] 8. VLAN, princip, použití. Trunk porty, protokol 802.1q, VTP technologie
