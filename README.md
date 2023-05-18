@@ -44,16 +44,16 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, PSS a ČJ pro 
 - [x] 11. DHCP6 - funkce, možnosti konfigurace (rozsahy IP adres, dle MAC adresy), použití
 - [x] 12. DNS, funkce, hierarchie DNS (od souboru po globální DNS servery), konfigurace
 - [x] 13. Zabezpečení datových sítí - Filtrace provozu, Firewall, NAT
-- [ ] 14. Bezdrátové sítě - princip radiového přenosu. Rozdělení a použití elektromagnetických vln, jejich šíření, antény, základní druhy modulací, zabezpečení, autentifikace.
+- [x] 14. Bezdrátové sítě - princip radiového přenosu. Rozdělení a použití elektromagnetických vln, jejich šíření, antény, základní druhy modulací, zabezpečení, autentifikace.
 - [x] 15. Hypertextové schéma HTTP - hlavičky, HTTP autentifikace, HTTP2 - rozdíly oproti HTTP1.1. Webové služby
 - [x] 16. SSL/TLS, RSA - Symetrické a asymetrické šifrování, SSL/TLS handshake. Certifikační autority. Princip ověření pravosti klíče
 - [x] 17. IMAP, SMTP - princip odesílání pošty, synchronizace poštovních schránek se serverem
-- [ ] 18. Teorie OS - fungování OS, struktura OS, správa procesů, pseudoparalelismus
+- [x] 18. Teorie OS - fungování OS, struktura OS, správa procesů, pseudoparalelismus
 - [x] 19. Cloud computing - různé vitalizace typy (SaaS, PaaS, IaaS), výhody a nevýhody
-- [ ] 20. OS Linux - Struktura OS, Shell: koncepce, typy, příkazy. Správa programového vybavení. Start systému. Služby, naplánované procesy. Souborový sytém, Účel základních adresářů.
-- [ ] 21. OS Linux - Správa uživatelů, skupin. Zabezpečení přístupu k souborům a službám. SUDO.
-- [ ] 22. OS Linux - Vzdálená správa Firewall - konfigurace, ovládání síťových zařízení. Naplánované úlohy, LOG soubory.
-- [ ] 23. OS Linux - Tvorba skriptů. Práce s textovými soubory, filtrace, Regulární výrazy.
+- [x] 20. OS Linux - Struktura OS, Shell: koncepce, typy, příkazy. Správa programového vybavení. Start systému. Služby, naplánované procesy. Souborový sytém, Účel základních adresářů.
+- [x] 21. OS Linux - Správa uživatelů, skupin. Zabezpečení přístupu k souborům a službám. SUDO.
+- [x] 22. OS Linux - Vzdálená správa Firewall - konfigurace, ovládání síťových zařízení. Naplánované úlohy, LOG soubory.
+- [x] 23. OS Linux - Tvorba skriptů. Práce s textovými soubory, filtrace, Regulární výrazy.
 - [x] 24. Etherchannel, principy, funkce, použití
 - [x] 25. HSRP, principy, funkce, použití, konfigurace
 
