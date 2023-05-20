@@ -82,9 +82,9 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, PSS a ČJ pro 
 - [x] 39. Josef a Karel Čapkové, Ze života hmyzu                                             
 - [x] 49. Ladislav Fuks, Spalovač mrtvol 
 - [x] 50. Bohumil Hrabal, Ostře sledované vlaky 
-- [ ] 51. Bohumil Hrabal, Postřižiny 
+- [x] 51. Bohumil Hrabal, Postřižiny 
 - [x] 56. Ota Pavel, Smrt krásných  srnců 
-- [ ] 60. Petr Šabach, Občanský průkaz 
+- [x] 60. Petr Šabach, Občanský průkaz 
 - [x] 62. Ladislav Smoljak, Zdeněk Svěrák, Vyšetřování ztráty třídní knihy      
 
 # Ječnácké maturitní otázky pro rok 2020
