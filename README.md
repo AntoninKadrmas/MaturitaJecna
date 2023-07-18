@@ -29,6 +29,28 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, PSS a ČJ pro 
 - [x] 24. Výjimky a aserce, debugování a zpracování chyb
 - [x] 25. Zpracování a parsování textých dat, regulární výrazy, kódování a stringy
 
+## DS
+
+- [x] 1. Databazove_systemy
+- [x] 2. Modelování relační databáze
+- [x] 3. Normalizace relační databáze, normalizační formy a důvody
+- [x] 4. Integrita dat relační databáze
+- [x] 5. Etapy vývoje databázového systému
+- [x] 6. Údržba a úpravy dat v databázi
+- [x] 7. Záloha a Archivace dat
+- [x] 8. Export a Import dat databaze
+- [x] 9. Architektura databázových systémů správa, služby
+- [x] 10. Bezpečnost a uživatelska oprávněni
+- [x] 11. Jazyk SQL – DDL, DML, příkazy
+- [x] 12. Jazyk SQL – SELECT, VIEW (spojování tabulek, agregační funkce, seskupování záznamů.
+- [x] 13. Jazyk SQL – Vnořené příkazy (operátory IN, EXISTS, ALL, SOME, ANY.
+- [x] 14.  TCL příkazy
+- [x] 15.  Transakce a transakční zpracování - Copy
+- [x] 16. Indexy a indexace dat v databázi (UNIQUE, INDEX.
+- [x] 17. Uložené procedury a funkce
+- [x] 18. Trigger
+
+
 ## PSS
 
 - [x] 1. IPv4, adresování - formát paketu, maska, podsíť. porovnání s IPv6
