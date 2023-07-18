@@ -1,6 +1,11 @@
 # Ječnácké maturitní otázky pro rok 2023
 SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, PSS a ČJ pro rok 2023
 
+### Links to other materials
+- https://github.com/marvalkrystof/Jecna-Maturita-2023
+- https://github.com/zimice/MaturitaJecna2021
+- https://github.com/ondramandik/vzorova-maturitni-prace
+
 ## PV
 
 - [x] 1. Adresování a správa paměti - Garbage collecting, Reference/ukazatele, Struktura paměti programu
