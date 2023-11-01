@@ -5,6 +5,7 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, PSS a ČJ pro 
 - https://github.com/marvalkrystof/Jecna-Maturita-2023
 - https://github.com/zimice/MaturitaJecna2021
 - https://github.com/ondramandik/vzorova-maturitni-prace
+- https://www.youtube.com/@Jecna-maturitavkapse
 
 ## PV
 
