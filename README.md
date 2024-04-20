@@ -1,11 +1,13 @@
-# Ječnácké maturitní otázky pro rok 2023
-SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, PSS a ČJ pro rok 2023
+# !!! If you want to contribute just create merge request with your materials. Any contribution will be appreciated. It should be from students to students. !!!
 
 ### Links to other materials
 - https://github.com/marvalkrystof/Jecna-Maturita-2023
 - https://github.com/zimice/MaturitaJecna2021
 - https://github.com/ondramandik/vzorova-maturitni-prace
 - https://www.youtube.com/@Jecna-maturitavkapse
+# Ječňácké maturitní otázky pro rok 2023
+
+SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, PSS a ČJ pro rok 2023
 
 ## PV
 
@@ -115,7 +117,7 @@ SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, PSS a ČJ pro 
 - [x] 60. Petr Šabach, Občanský průkaz 
 - [x] 62. Ladislav Smoljak, Zdeněk Svěrák, Vyšetřování ztráty třídní knihy      
 
-# Ječnácké maturitní otázky pro rok 2020
+# Ječňácké maturitní otázky pro rok 2020
 SPŠE Ječná - Vypracované maturitní otázky z předmětů PV, DS pro rok 2020
 
 ## PV
