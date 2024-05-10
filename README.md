@@ -1,4 +1,4 @@
-# !!! If you want to contribute just create merge request with your materials. Any contribution will be appreciated. It should be from students to students. !!!
+# !!! If you want to contribute just make a fork, add changes, and create merge request with your materials. Any contribution will be appreciated. It should be from students to students. !!!
 
 ### Links to other materials
 - https://github.com/marvalkrystof/Jecna-Maturita-2023
